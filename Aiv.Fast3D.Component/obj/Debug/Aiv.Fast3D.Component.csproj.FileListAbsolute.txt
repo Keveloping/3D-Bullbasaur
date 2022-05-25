@@ -1,0 +1,235 @@
+D:\Desktop\Aiv.Fast3D.Component\Aiv.Fast3D.Component\obj\Debug\Aiv.Fast3D.Component.csprojAssemblyReference.cache
+D:\Desktop\Aiv.Fast3D.Component\Aiv.Fast3D.Component\obj\Debug\Aiv.Fast3D.Component.csproj.CoreCompileInputs.cache
+D:\Desktop\Aiv.Fast3D.Component\Aiv.Fast3D.Component\bin\Debug\Aiv.Fast3D.Component.exe.config
+D:\Desktop\Aiv.Fast3D.Component\Aiv.Fast3D.Component\bin\Debug\Aiv.Fast3D.Component.exe
+D:\Desktop\Aiv.Fast3D.Component\Aiv.Fast3D.Component\bin\Debug\Aiv.Fast3D.Component.pdb
+D:\Desktop\Aiv.Fast3D.Component\Aiv.Fast3D.Component\bin\Debug\aiv-audio.dll
+D:\Desktop\Aiv.Fast3D.Component\Aiv.Fast3D.Component\bin\Debug\aiv-fast2d.dll
+D:\Desktop\Aiv.Fast3D.Component\Aiv.Fast3D.Component\bin\Debug\aiv-fast3d.dll
+D:\Desktop\Aiv.Fast3D.Component\Aiv.Fast3D.Component\bin\Debug\AssimpNet.dll
+D:\Desktop\Aiv.Fast3D.Component\Aiv.Fast3D.Component\bin\Debug\NVorbis.dll
+D:\Desktop\Aiv.Fast3D.Component\Aiv.Fast3D.Component\bin\Debug\OpenTK.dll
+D:\Desktop\Aiv.Fast3D.Component\Aiv.Fast3D.Component\bin\Debug\System.ValueTuple.dll
+D:\Desktop\Aiv.Fast3D.Component\Aiv.Fast3D.Component\bin\Debug\AssimpNet.xml
+D:\Desktop\Aiv.Fast3D.Component\Aiv.Fast3D.Component\bin\Debug\NVorbis.xml
+D:\Desktop\Aiv.Fast3D.Component\Aiv.Fast3D.Component\bin\Debug\OpenTK.pdb
+D:\Desktop\Aiv.Fast3D.Component\Aiv.Fast3D.Component\bin\Debug\OpenTK.xml
+D:\Desktop\Aiv.Fast3D.Component\Aiv.Fast3D.Component\bin\Debug\System.ValueTuple.xml
+D:\Desktop\Aiv.Fast3D.Component\Aiv.Fast3D.Component\obj\Debug\Aiv.Fast3D.Component.csproj.CopyComplete
+D:\Desktop\Aiv.Fast3D.Component\Aiv.Fast3D.Component\obj\Debug\Aiv.Fast3D.Component.exe
+D:\Desktop\Aiv.Fast3D.Component\Aiv.Fast3D.Component\obj\Debug\Aiv.Fast3D.Component.pdb
+D:\Desktop\Aiv.Fast3D.Component\Aiv.Fast3D.Component\bin\Debug\MyAssets\Stormtrooper.png
+D:\Desktop\Aiv.Fast3D.Component\Aiv.Fast3D.Component\bin\Debug\MyAssets\Stormtrooper.obj
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\cartoon_grass.png
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\cartoon_grass_spec.jpg
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\checker.png
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\Final_Pokemon_Diffuse.png
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\Final_Pokemon_Glossiness.jpg
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\fish_body.png
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\fish_eyes.png
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\grass.png
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\grass_billboard.png
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\grass_billboard2.png
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\magma.jpg
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\petal.png
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\street.jpg
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\fish.mtl
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\fish.obj
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\grass.mtl
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\grass.obj
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\Pokemon.mtl
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\Pokemon.obj
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\Aiv.Fast3D.Component.exe.config
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\Aiv.Fast3D.Component.exe
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\Aiv.Fast3D.Component.pdb
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\aiv-audio.dll
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\aiv-fast2d.dll
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\aiv-fast3d.dll
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\AssimpNet.dll
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\NVorbis.dll
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\OpenTK.dll
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\System.ValueTuple.dll
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\AssimpNet.xml
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\NVorbis.xml
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\OpenTK.pdb
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\OpenTK.xml
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\System.ValueTuple.xml
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\obj\Debug\Aiv.Fast3D.Component.csprojAssemblyReference.cache
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\obj\Debug\Aiv.Fast3D.Component.csproj.CoreCompileInputs.cache
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\obj\Debug\Aiv.Fast3D.Component.csproj.CopyComplete
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\obj\Debug\Aiv.Fast3D.Component.exe
+D:\Desktop\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\obj\Debug\Aiv.Fast3D.Component.pdb
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\cartoon_grass.png
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\cartoon_grass_spec.jpg
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\checker.png
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\Final_Pokemon_Diffuse.png
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\Final_Pokemon_Glossiness.jpg
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\fish_body.png
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\fish_eyes.png
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\grass.png
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\grass_billboard.png
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\grass_billboard2.png
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\magma.jpg
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\petal.png
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\street.jpg
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\fish.mtl
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\fish.obj
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\grass.mtl
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\grass.obj
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\Pokemon.mtl
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\Pokemon.obj
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\Aiv.Fast3D.Component.exe.config
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\Aiv.Fast3D.Component.exe
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\Aiv.Fast3D.Component.pdb
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\aiv-audio.dll
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\aiv-fast2d.dll
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\aiv-fast3d.dll
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\AssimpNet.dll
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\NVorbis.dll
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\OpenTK.dll
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\System.ValueTuple.dll
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\AssimpNet.xml
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\NVorbis.xml
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\OpenTK.pdb
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\OpenTK.xml
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\System.ValueTuple.xml
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\obj\Debug\Aiv.Fast3D.Component.csprojAssemblyReference.cache
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\obj\Debug\Aiv.Fast3D.Component.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\obj\Debug\Aiv.Fast3D.Component.csproj.CopyComplete
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\obj\Debug\Aiv.Fast3D.Component.exe
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\obj\Debug\Aiv.Fast3D.Component.pdb
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\MySounds\Death02.wav
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\MySounds\Attack02.wav
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\MySounds\Jump02.wav
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\IvySaur.jpg
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\loadingBar_bar.png
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\loadingBar_frame.png
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\MySounds\MenuBack01.wav
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\MySounds\MenuValid01.wav
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\StartSceneBackground(2).png
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\StartSceneBackground.png
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\Wailord.FBX
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\pm0129_00_BodyNor.png
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\pm0129_00_Eye1.png
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\pm0129_00_EyeNor.png
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\MagikarpF.FBX
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\pm0129_00_Body1.png
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\MySounds\Hurt01.wav
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\MySounds\PlaySceneMusic.wav
+C:\Users\Nicol\OneDrive\Desktop\91. Lezione 23 Giugno 2021\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\textSheet.png
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\cartoon_grass.png
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\cartoon_grass_spec.jpg
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\checker.png
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\Final_Pokemon_Diffuse.png
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\Final_Pokemon_Glossiness.jpg
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\fish_body.png
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\fish_eyes.png
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\grass.png
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\grass_billboard.png
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\grass_billboard2.png
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\IvySaur.jpg
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\loadingBar_bar.png
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\loadingBar_frame.png
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\MySounds\Hurt01.wav
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\MySounds\Jump02.wav
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\magma.jpg
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\MySounds\Attack02.wav
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\MySounds\Death02.wav
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\MySounds\PlaySceneMusic.wav
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\MySounds\MenuBack01.wav
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\MySounds\MenuValid01.wav
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\petal.png
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\pm0129_00_Body1.png
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\pm0129_00_BodyNor.png
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\pm0129_00_Eye1.png
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\pm0129_00_EyeNor.png
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\StartSceneBackground(2).png
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\StartSceneBackground.png
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\street.jpg
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\textSheet.png
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\fish.mtl
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\fish.obj
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\grass.mtl
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\grass.obj
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\MagikarpF.FBX
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\Pokemon.mtl
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\Pokemon.obj
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\Wailord.FBX
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\Aiv.Fast3D.Component.exe.config
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\Aiv.Fast3D.Component.exe
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\Aiv.Fast3D.Component.pdb
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\aiv-audio.dll
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\aiv-fast2d.dll
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\aiv-fast3d.dll
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\AssimpNet.dll
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\NVorbis.dll
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\OpenTK.dll
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\System.ValueTuple.dll
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\AssimpNet.xml
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\NVorbis.xml
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\OpenTK.pdb
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\OpenTK.xml
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\System.ValueTuple.xml
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\obj\Debug\Aiv.Fast3D.Component.csprojAssemblyReference.cache
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\obj\Debug\Aiv.Fast3D.Component.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\obj\Debug\Aiv.Fast3D.Component.csproj.CopyComplete
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\obj\Debug\Aiv.Fast3D.Component.exe
+C:\Users\Nicol\OneDrive\Desktop\3D_Fish - Nicolas Mollo\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\obj\Debug\Aiv.Fast3D.Component.pdb
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\cartoon_grass.png
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\cartoon_grass_spec.jpg
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\checker.png
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\Final_Pokemon_Diffuse.png
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\Final_Pokemon_Glossiness.jpg
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\fish_body.png
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\fish_eyes.png
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\grass.png
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\grass_billboard.png
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\grass_billboard2.png
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\IvySaur.jpg
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\loadingBar_bar.png
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\loadingBar_frame.png
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\MySounds\Hurt01.wav
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\MySounds\Jump02.wav
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\magma.jpg
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\MySounds\Attack02.wav
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\MySounds\Death02.wav
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\MySounds\PlaySceneMusic.wav
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\MySounds\MenuBack01.wav
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\MySounds\MenuValid01.wav
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\petal.png
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\pm0129_00_Body1.png
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\pm0129_00_BodyNor.png
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\pm0129_00_Eye1.png
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\pm0129_00_EyeNor.png
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\StartSceneBackground(2).png
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\StartSceneBackground.png
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\street.jpg
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\textSheet.png
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\fish.mtl
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\fish.obj
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\grass.mtl
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\grass.obj
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\MagikarpF.FBX
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\Pokemon.mtl
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\Pokemon.obj
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\MyAssets\Wailord.FBX
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\Aiv.Fast3D.Component.exe.config
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\Aiv.Fast3D.Component.exe
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\Aiv.Fast3D.Component.pdb
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\aiv-audio.dll
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\aiv-fast2d.dll
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\aiv-fast3d.dll
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\AssimpNet.dll
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\NVorbis.dll
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\OpenTK.dll
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\System.ValueTuple.dll
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\AssimpNet.xml
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\NVorbis.xml
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\OpenTK.pdb
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\OpenTK.xml
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\bin\Debug\System.ValueTuple.xml
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\obj\Debug\Aiv.Fast3D.Component.csproj.AssemblyReference.cache
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\obj\Debug\Aiv.Fast3D.Component.csproj.CoreCompileInputs.cache
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\obj\Debug\Aiv.Fast3D.Component.csproj.CopyComplete
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\obj\Debug\Aiv.Fast3D.Component.exe
+C:\Users\reynoso\Desktop\Kevin Folder\3D_Fish\Aiv.Fast3D.Component - 3DFish\Aiv.Fast3D.Component\obj\Debug\Aiv.Fast3D.Component.pdb

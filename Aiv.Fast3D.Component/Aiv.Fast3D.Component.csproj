@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0274430F-A1CD-4E94-8C9B-1D55BBBD9D8E}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Aiv.Fast3D.Component</RootNamespace>
+    <AssemblyName>Aiv.Fast3D.Component</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="aiv-audio, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Aiv.Audio.0.2.2\lib\net40\aiv-audio.dll</HintPath>
+    </Reference>
+    <Reference Include="aiv-fast2d, Version=1.0.7819.26848, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Aiv.Fast2D.1.0.3\lib\net48\aiv-fast2d.dll</HintPath>
+    </Reference>
+    <Reference Include="aiv-fast3d, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Aiv.Fast3D.1.0.1\lib\net48\aiv-fast3d.dll</HintPath>
+    </Reference>
+    <Reference Include="AssimpNet, Version=4.1.0.0, Culture=neutral, PublicKeyToken=0d51b391f59f42a6, processorArchitecture=MSIL">
+      <HintPath>..\packages\AssimpNet.4.1.0\lib\net40\AssimpNet.dll</HintPath>
+    </Reference>
+    <Reference Include="NVorbis, Version=0.9.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\NVorbis.0.9.1\lib\net45\NVorbis.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenTK, Version=3.2.0.0, Culture=neutral, PublicKeyToken=bad199fe84eb3df4, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenTK.3.2\lib\net20\OpenTK.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MyComponents\Billboard.cs" />
+    <Compile Include="Engine\AI\FSM.cs" />
+    <Compile Include="Engine\AI\State.cs" />
+    <Compile Include="Engine\AudioClipMgr.cs" />
+    <Compile Include="Engine\AudioSourceComponent.cs" />
+    <Compile Include="Engine\BoxCollider.cs" />
+    <Compile Include="Engine\CameraMgr.cs" />
+    <Compile Include="Engine\CircleCollider.cs" />
+    <Compile Include="Engine\Collider.cs" />
+    <Compile Include="Engine\ColliderFactory.cs" />
+    <Compile Include="Engine\Component.cs" />
+    <Compile Include="Engine\DrawMgr.cs" />
+    <Compile Include="Engine\EventHandlerManager.cs" />
+    <Compile Include="Engine\StupidFirstPersonCamera.cs" />
+    <Compile Include="Engine\Game.cs" />
+    <Compile Include="Engine\GameObject.cs" />
+    <Compile Include="Engine\GfxMgr.cs" />
+    <Compile Include="Engine\ICollidable.cs" />
+    <Compile Include="Engine\IDrawable.cs" />
+    <Compile Include="Engine\IFixedUpdatable.cs" />
+    <Compile Include="Engine\Input.cs" />
+    <Compile Include="Engine\IStartable.cs" />
+    <Compile Include="Engine\IUpdatable.cs" />
+    <Compile Include="Engine\MeshRendeer.cs" />
+    <Compile Include="Engine\CameraComponent.cs" />
+    <Compile Include="Engine\PhysicsManager.cs" />
+    <Compile Include="Engine\RandomGenerator.cs" />
+    <Compile Include="Engine\RandomTimer.cs" />
+    <Compile Include="Engine\Rigidbody.cs" />
+    <Compile Include="Engine\Scene.cs" />
+    <Compile Include="Engine\Sheet.cs" />
+    <Compile Include="Engine\SheetAnimator.cs" />
+    <Compile Include="Engine\SheetClip.cs" />
+    <Compile Include="Engine\SphereCollider.cs" />
+    <Compile Include="Engine\SpriteRenderer.cs" />
+    <Compile Include="Engine\Transform.cs" />
+    <Compile Include="Engine\UI\Font.cs" />
+    <Compile Include="Engine\UI\FontMgr.cs" />
+    <Compile Include="Engine\UI\TextBox.cs" />
+    <Compile Include="Engine\UserComponent.cs" />
+    <Compile Include="MyComponents\Bullet.cs" />
+    <Compile Include="MyComponents\BulletMgr.cs" />
+    <Compile Include="MyComponents\CameraOrbital.cs" />
+    <Compile Include="MyComponents\Enemy.cs" />
+    <Compile Include="MyComponents\EnemyMgr.cs" />
+    <Compile Include="MyComponents\PlayerController.cs" />
+    <Compile Include="MyScenes\PlayScene.cs" />
+    <Compile Include="MyComponents\PauseLogic.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="MyComponents\SfxMgr.cs" />
+    <Compile Include="MyComponents\QuitSceneLogic.cs" />
+    <Compile Include="MyComponents\KeepInsideFloor.cs" />
+    <Compile Include="MyComponents\ReturnInsideFloor.cs" />
+    <Compile Include="MyComponents\UiMgr.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="MyAssets\fish.mtl">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="MyAssets\fish.obj">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="MyAssets\grass.mtl">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="MyAssets\grass.obj">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="MyAssets\MagikarpF.FBX">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="MyAssets\Pokemon.mtl">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="MyAssets\Pokemon.obj">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="MyAssets\Wailord.FBX">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="OpenTK.dll.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MyAssets\cartoon_grass.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MyAssets\cartoon_grass_spec.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MyAssets\checker.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MyAssets\Final_Pokemon_Diffuse.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MyAssets\Final_Pokemon_Glossiness.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MyAssets\fish_body.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MyAssets\fish_eyes.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MyAssets\grass.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MyAssets\grass_billboard.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MyAssets\grass_billboard2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MyAssets\IvySaur.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MyAssets\loadingBar_bar.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MyAssets\loadingBar_frame.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MyAssets\MySounds\Hurt01.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MyAssets\MySounds\Jump02.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MyAssets\magma.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MyAssets\MySounds\Attack02.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MyAssets\MySounds\Death02.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MyAssets\MySounds\PlaySceneMusic.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MyAssets\MySounds\MenuBack01.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MyAssets\MySounds\MenuValid01.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MyAssets\petal.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MyAssets\pm0129_00_Body1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MyAssets\pm0129_00_BodyNor.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MyAssets\pm0129_00_Eye1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MyAssets\pm0129_00_EyeNor.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MyAssets\StartSceneBackground%282%29.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MyAssets\StartSceneBackground.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MyAssets\street.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MyAssets\textSheet.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\AssimpNet.4.1.0\build\AssimpNet.targets" Condition="Exists('..\packages\AssimpNet.4.1.0\build\AssimpNet.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\AssimpNet.4.1.0\build\AssimpNet.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\AssimpNet.4.1.0\build\AssimpNet.targets'))" />
+  </Target>
+</Project>
